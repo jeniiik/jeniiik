@@ -63,6 +63,4 @@
 
 ### 🗺️ 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/jeniiik/jeniiik/blob/main/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
-</p>
+![](./profile-3d-contrib/profile-night-view.svg.svg)
