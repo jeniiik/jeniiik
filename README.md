@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeniiik&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeniiik&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniiik&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -39,8 +38,6 @@
 </div>
 
 ---
-
-### 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jeniiik/jeniiik/output/snake.svg" alt="Snake animation" />
@@ -61,14 +58,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 </div>
-
----
-
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeniiik&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
 
 ---
 
