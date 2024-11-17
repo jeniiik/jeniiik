@@ -63,4 +63,6 @@
 
 ### 🗺️ 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-night-view.svg.svg)
+<p align="center">
+  <img src="https://github.com/jeniiik/jeniiik/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</p>
